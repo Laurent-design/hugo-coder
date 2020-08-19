@@ -1,6 +1,5 @@
 baseurl = "https://mycreateurdesite.netlify.app/"
 title = "</my:créateurdesite>"
-info = "Hello friend"
      
 theme = "hugo-coder"
 
@@ -20,6 +19,7 @@ disqusShortname = "yourdiscussshortname"
     author = "Laurent"
     description = "Site web de MyCréateurdeSite"
     keywords = "site web,marseille,site internet"
+    info = "Hello friend"
     info = "Coding is a world in motion"
     avatarurl = "images/lateamL-new.png"
     #gravatar = "john.doe@example.com"
