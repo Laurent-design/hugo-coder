@@ -22,7 +22,7 @@ disqusShortname = "yourdiscussshortname"
     info = "Coding is a world in motion"
     avatarurl = "images/lateamL-new.png"
     #gravatar = "john.doe@example.com"
-    footercontent = "Accélérez le temps avec GO."
+    footercontent = "GO, accélérateur de sites web."
 
     dateformat = "January 2, 2006"
 
