@@ -1,5 +1,5 @@
 baseurl = "https://mycreateurdesite.netlify.app/"
-title = "</my:créateurdesite><br>"Hello friend""
+title = "</my:créateurdesite><br>'Hello friend'"
 
 theme = "hugo-coder"
 
@@ -118,7 +118,7 @@ disqusShortname = "yourdiscussshortname"
 
     [languages.en]
         languagename = "English"
-        title = "</my:créateurdesite><br>"Hello friend""
+        title = "</my:créateurdesite><br>'Hello friend'"
 
         [languages.en.params]
             author = "Laurent"
