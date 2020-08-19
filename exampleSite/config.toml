@@ -118,7 +118,7 @@ disqusShortname = "yourdiscussshortname"
 
     [languages.en]
         languagename = "English"
-        title = "MyCréateurdeSite"
+        title = "</my:créateurdesite>"
 
         [languages.en.params]
             author = "Laurent"
