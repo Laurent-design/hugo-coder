@@ -17,12 +17,12 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
     author = "Laurent"
-    description = "MyCréateurdeSite's website"
+    description = "Site web de MyCréateurdeSite"
     keywords = "site web,marseille,site internet"
     info = "Coding is a world in motion"
     avatarurl = "images/avatar.jpg"
     #gravatar = "john.doe@example.com"
-    footercontent = "Go<br>for more efficient websites."
+    footercontent = "Go,<br>For more efficient websites."
 
     dateformat = "January 2, 2006"
 
@@ -95,8 +95,42 @@ disqusShortname = "yourdiscussshortname"
 
 
 [languages]
+    [languages.fr]
+        languagename = "French"
+
+        [languages.fr.menu]
+
+            [[languages.fr.menu.main]]
+            name = "A propos"
+            weight = 1
+            url = "https://www.mycreateurdesite.fr/"
+
+            [[languages.fr.menu.main]]
+            name = "Activités"
+            weight = 2
+            url = "https://www.mycreateurdesite.fr/activites/"
+
+            [[languages.fr.menu.main]]
+            name = "Projets"
+            weight = 3
+            url = "projects/"
+
+            [[languages.fr.menu.main]]
+            name = "Contact"
+            weight = 5
+            url = "https://www.mycreateurdesite.fr/contact/"
+
+
     [languages.en]
         languagename = "English"
+        title = "MyCréateurdeSite"
+
+        [languages.en.params]
+            author = "Laurent"
+            info = "Coding is a world in motion"
+            description = "MyCreateurdeSite 's website"
+            keywords = "website,marseille,internet"
+            footercontent = "Go,<br>For more efficient websites."
 
         [languages.en.menu]
 
@@ -117,39 +151,5 @@ disqusShortname = "yourdiscussshortname"
 
             [[languages.en.menu.main]]
             name = "Contact me"
-            weight = 5
-            url = "contact/"
-
-
-    [languages.pt-br]
-        languagename = "Português"
-        title = "João Ninguém"
-
-        [languages.pt-br.params]
-            author = "João Ninguém"
-            info = "Full Stack DevOps e Mágico"
-            description = "Sítio pessoal de João Ninguém"
-            keywords = "blog,desenvolvedor,pessoal"
-            footercontent = "Coloque algum texto aqui."
-
-        [languages.pt-br.menu]
-
-            [[languages.pt-br.menu.main]]
-            name = "Sobre"
-            weight = 1
-            url = "about/"
-
-            [[languages.pt-br.menu.main]]
-            name = "Blog"
-            weight = 2
-            url = "posts/"
-
-            [[languages.pt-br.menu.main]]
-            name = "Projetos"
-            weight = 3
-            url = "projects/"
-
-            [[languages.pt-br.menu.main]]
-            name = "Contato"
             weight = 5
             url = "contact/"
