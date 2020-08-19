@@ -1,4 +1,4 @@
-baseurl = "http://www.example.com"
+baseurl = "https://mycreateurdesite.netlify.app/"
 title = "johndoe"
 
 theme = "hugo-coder"
@@ -17,9 +17,9 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
     author = "John Doe"
-    description = "John Doe's personal website"
-    keywords = "blog,developer,personal"
-    info = "Full Stack DevOps and Magician"
+    description = "MyCréateurdeSite's website"
+    keywords = "site web,marseille,site internet"
+    info = "Coding is a world in motion"
     avatarurl = "images/avatar.jpg"
     #gravatar = "john.doe@example.com"
     footercontent = "Enter a text here."
