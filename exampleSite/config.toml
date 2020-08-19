@@ -22,7 +22,7 @@ disqusShortname = "yourdiscussshortname"
     info = "Coding is a world in motion"
     avatarurl = "images/avatar.jpg"
     #gravatar = "john.doe@example.com"
-    footercontent = "Go,<br>For more efficient websites."
+    footercontent = "Accélérez le temps avec GO."
 
     dateformat = "January 2, 2006"
 
@@ -130,19 +130,19 @@ disqusShortname = "yourdiscussshortname"
             info = "Coding is a world in motion"
             description = "MyCreateurdeSite 's website"
             keywords = "website,marseille,internet"
-            footercontent = "Go,<br>For more efficient websites."
+            footercontent = "To GO faster with your website"
 
         [languages.en.menu]
 
             [[languages.en.menu.main]]
             name = "About"
             weight = 1
-            url = "about/"
+            url = "https://www.mycreateurdesite.fr/"
 
             [[languages.en.menu.main]]
-            name = "Blog"
+            name = "Main activities"
             weight = 2
-            url = "posts/"
+            url = "https://www.mycreateurdesite.fr/activites/"
 
             [[languages.en.menu.main]]
             name = "Projects"
@@ -152,4 +152,4 @@ disqusShortname = "yourdiscussshortname"
             [[languages.en.menu.main]]
             name = "Contact me"
             weight = 5
-            url = "contact/"
+            url = "https://www.mycreateurdesite.fr/contact/"
