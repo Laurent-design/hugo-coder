@@ -19,8 +19,7 @@ disqusShortname = "yourdiscussshortname"
     author = "Laurent"
     description = "Site web de MyCréateurdeSite"
     keywords = "site web,marseille,site internet"
-    info = "Hello friend
-Coding is a world in motion"
+    info = "Hello friend"
     avatarurl = "images/lateamL-new.png"
     #gravatar = "john.doe@example.com"
     footercontent = "GO, accélérateur de sites web."
@@ -123,7 +122,7 @@ Coding is a world in motion"
                 
         [languages.en.params]
             author = "Laurent"
-            info = "Coding is a world in motion"
+            info = "Hello friend"
             description = "MyCreateurdeSite 's website"
             keywords = "website,marseille,internet"
             footercontent = "To GO faster with your website."
