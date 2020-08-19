@@ -4,7 +4,7 @@ title = "mycréateurdesite"
 theme = "hugo-coder"
 
 languagecode = "en"
-defaultcontentlanguage = "en"
+defaultcontentlanguage = "fr"
 
 paginate = 20
 canonifyurls = true
@@ -22,7 +22,7 @@ disqusShortname = "yourdiscussshortname"
     info = "Coding is a world in motion"
     avatarurl = "images/avatar.jpg"
     #gravatar = "john.doe@example.com"
-    footercontent = "Go, for more efficient websites."
+    footercontent = "Go<br>for more efficient websites."
 
     dateformat = "January 2, 2006"
 
@@ -76,34 +76,22 @@ disqusShortname = "yourdiscussshortname"
     name = "Github"
     icon = "fab fa-github"
     weight = 1
-    url = "https://github.com/johndoe/"
+    url = "https://github.com/Laurent-design"
 [[params.social]]
-    name = "Gitlab"
-    icon = "fab fa-gitlab"
-    weight = 2
-    url = "https://gitlab.com/johndoe/"
-[[params.social]]
-    name = "Twitter"
-    icon = "fab fa-twitter"
+    name = "Facebook"
+    icon = "fab fa-facebook"
     weight = 3
-    url = "https://twitter.com/johndoe/"
+    url = "https://www.facebook.com/mycreateurdesite/?fref=ts"
 [[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin"
     weight = 4
-    url = "https://www.linkedin.com/in/johndoe/"
+    url = "https://www.linkedin.com/in/mycreateurdesite"
 [[params.social]]
-    name = "Medium"
-    icon = "fab fa-medium"
+    name = "Instagram"
+    icon = "fab fa-instagram"
     weight = 5
-    url = "https://medium.com/@johndoe"
-[[params.social]]
-    name = "RSS"
-    icon = "fas fa-rss"
-    weight = 6
-    url = "https://myhugosite.com/index.xml"
-    rel = "alternate"
-    type = "application/rss+xml"
+    url = "https://www.instagram.com/mycreateurdesite/?hl=fr"
 
 
 [languages]
