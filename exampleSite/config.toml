@@ -4,7 +4,7 @@ title = "mycréateurdesite"
 theme = "hugo-coder"
 
 languagecode = "en"
-defaultcontentlanguage = "en"
+defaultcontentlanguage = "fr"
 
 paginate = 20
 canonifyurls = true
@@ -96,7 +96,7 @@ disqusShortname = "yourdiscussshortname"
 
 [languages]
     [languages.fr]
-        languagename = "French"
+        languagename = "Français"
 
         [languages.fr.menu]
 
