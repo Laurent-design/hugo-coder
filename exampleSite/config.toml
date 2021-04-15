@@ -1,5 +1,5 @@
 baseurl = "https://mycreateurdesite.netlify.app/"
-title = "</my:créateurdesite>"
+title = "<FONT face="virtual"></my:créateurdesite></FONT>"
      
 theme = "hugo-coder"
 
