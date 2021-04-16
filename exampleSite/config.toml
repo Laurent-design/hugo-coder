@@ -106,9 +106,9 @@ disqusShortname = "yourdiscussshortname"
             url = "https://www.mycreateurdesite.fr/"
 
             [[languages.fr.menu.main]]
-            name =""
+            name ="|"
             weight = 2
-            url = "https://www.mycreateurdesite.fr/activites/"
+            url = ""
 
             [[languages.fr.menu.main]]
             name = "Contact"
@@ -135,9 +135,9 @@ disqusShortname = "yourdiscussshortname"
             url = "https://www.mycreateurdesite.fr/"
 
             [[languages.en.menu.main]]
-            name =""
+            name ="|"
             weight = 2
-            url = "https://www.mycreateurdesite.fr/activites/"
+            url = ""
 
             [[languages.en.menu.main]]
             name = "Contact me"
