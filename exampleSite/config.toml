@@ -20,7 +20,7 @@ disqusShortname = "yourdiscussshortname"
     description = "Site web de MyCréateurdeSite"
     keywords = "site web,marseille,site internet"
     info = "Allez, on se la raconte ?"
-    avatarurl = avatar-Lau-mycreateurdesite.png
+    avatarurl = "avatar-Lau-mycreateurdesite.png"
     #gravatar = "john.doe@example.com"
     footercontent = "GO, accélérateur de sites web."
 
@@ -101,7 +101,7 @@ disqusShortname = "yourdiscussshortname"
         [languages.fr.menu]
 
             [[languages.fr.menu.main]]
-            name = "A propos"
+            name = "Le Site Web"
             weight = 1
             url = "https://www.mycreateurdesite.fr/"
 
@@ -130,7 +130,7 @@ disqusShortname = "yourdiscussshortname"
         [languages.en.menu]
 
             [[languages.en.menu.main]]
-            name = "About"
+            name = "Website"
             weight = 1
             url = "https://www.mycreateurdesite.fr/"
 
