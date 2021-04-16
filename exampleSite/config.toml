@@ -1,6 +1,6 @@
 baseurl = "https://mycreateurdesite.netlify.app/"
 title = "mycréateurdesite"
-avatarurl = "/images/mycreateurdesite-removebg.png"
+
 theme = "hugo-coder"
 
 languagecode = "en"
