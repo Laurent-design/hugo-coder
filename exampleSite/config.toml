@@ -20,7 +20,7 @@ disqusShortname = "yourdiscussshortname"
     description = "Site web de MyCréateurdeSite"
     keywords = "site web,marseille,site internet"
     info = "Allez, on se la raconte ?"
-    avatarurl = "kikilou.png"
+    avatarurl = "https://github.com/Laurent-design/hugo-coder/blob/3f0c670448b4fec8738a523719b0a1f480a404b5/exampleSite/static/images/kikilou.png"
     #gravatar = "john.doe@example.com"
     footercontent = "GO, accélérateur de sites web."
 
