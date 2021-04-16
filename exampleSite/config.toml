@@ -1,6 +1,7 @@
 baseurl = "https://mycreateurdesite.netlify.app/"
 title = "mycréateurdesite"
-     
+avatarurl = "    
+
 theme = "hugo-coder"
 
 languagecode = "en"
